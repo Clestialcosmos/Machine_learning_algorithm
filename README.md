@@ -8,7 +8,7 @@ A comprehensive collection of Machine Learning algorithms implemented in Python 
 
 | Algorithm | Documentation |
 |-----------|---------------|
-| Logistic Regression | [Open]([./Logistic%20Regression/README.md](https://github.com/Clestialcosmos/Machine_learning_algorithm/tree/main/Logistic-Regression)) |
+| Logistic Regression | [Open](https://github.com/Clestialcosmos/Machine_learning_algorithm/blob/main/Logistic-Regression/README.md) |
 | K-Nearest Neighbors (KNN) | [Open](./KNN/README.md) |
 | Support Vector Machine (SVM) | [Open](./SVM/README.md) |
 | Naive Bayes | [Open](./Naive%20Bayes/README.md) |
